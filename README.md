@@ -1,5 +1,5 @@
 # DeepMS
-The entire code involved in the article called 'DeepMS: Real-time MS Spectra Identification by Deep Learning' is here.And the following is description about files.
+The entire code involved in the article called 'DeepMS: Real-time MS Spectra Identification by Deep Learning' is here.And the following is description about files in pythonProjectDDA.zip.
 
 ## 1.Configure the computer operating environment
 Ubuntu 20.04 OR Ubuntu 18.04  
