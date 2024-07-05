@@ -28,6 +28,6 @@ ProteomeXchange
 PXD041292;PXD007863;PXD050120;PXD036650;PXD034913;PXD035780;PXD036800;  
 
 *:One can get all test data about this project through visiting database named ProteomeXchange.Then search number mentioned above as well as get data you are interested.Next,one must perform pFind v3.1 to deal with raw data.We provide a reference library for your reference.  
-Reference Library:(DB:Uniprot  DATA ID:UP000005640_9606  Species：Homo sapiens)  
+Reference Library:(DB:Uniprot  DATA ID:UP000005640_9606  Species：*Homo sapiens*)  
 
 Author:Qianzhou Wei(faiece@163.com),Jin MA(majin.edu@outlook.com)
